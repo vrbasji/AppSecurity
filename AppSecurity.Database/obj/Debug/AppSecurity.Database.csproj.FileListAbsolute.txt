@@ -1,0 +1,11 @@
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurityDB.mdf
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurityDB_log.ldf
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurity.Database.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurity.Database.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurity.Models.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\bin\Debug\AppSecurity.Models.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\obj\Debug\AppSecurity.Database.csprojAssemblyReference.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\obj\Debug\AppSecurity.Database.csproj.CoreCompileInputs.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\obj\Debug\AppSecurity.Database.csproj.CopyComplete
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\obj\Debug\AppSecurity.Database.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Database\obj\Debug\AppSecurity.Database.pdb

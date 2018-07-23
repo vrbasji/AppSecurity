@@ -1,0 +1,14 @@
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurityDB.mdf
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurityDB_log.ldf
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.SecureWebService.dll.config
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.SecureWebService.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.SecureWebService.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.Database.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.Models.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.Database.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\bin\AppSecurity.Models.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\obj\Debug\AppSecurity.SecureWebService.csprojAssemblyReference.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\obj\Debug\AppSecurity.SecureWebService.csproj.CoreCompileInputs.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\obj\Debug\AppSecurity.SecureWebService.csproj.CopyComplete
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\obj\Debug\AppSecurity.SecureWebService.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecureWebService\obj\Debug\AppSecurity.SecureWebService.pdb

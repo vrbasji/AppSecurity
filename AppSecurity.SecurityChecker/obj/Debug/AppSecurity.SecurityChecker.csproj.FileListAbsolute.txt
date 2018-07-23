@@ -1,0 +1,7 @@
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\bin\Debug\AppSecurity.SecurityChecker.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\bin\Debug\AppSecurity.SecurityChecker.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\obj\Debug\AppSecurity.SecurityChecker.csproj.CoreCompileInputs.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\obj\Debug\AppSecurity.SecurityChecker.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\obj\Debug\AppSecurity.SecurityChecker.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\bin\Debug\AppSecurity.SecurityChecker.dll.config
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.SecurityChecker\obj\Debug\AppSecurity.SecurityChecker.csprojAssemblyReference.cache

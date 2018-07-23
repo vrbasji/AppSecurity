@@ -1,0 +1,5 @@
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Models\bin\Debug\AppSecurity.Models.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Models\bin\Debug\AppSecurity.Models.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Models\obj\Debug\AppSecurity.Models.csproj.CoreCompileInputs.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Models\obj\Debug\AppSecurity.Models.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.Models\obj\Debug\AppSecurity.Models.pdb

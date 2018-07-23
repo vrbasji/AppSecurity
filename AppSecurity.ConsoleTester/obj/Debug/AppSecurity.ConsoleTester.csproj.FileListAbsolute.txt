@@ -1,0 +1,11 @@
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.ConsoleTester.exe.config
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.ConsoleTester.exe
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.ConsoleTester.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.SecurityChecker.dll
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.SecurityChecker.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\obj\Debug\AppSecurity.ConsoleTester.csprojAssemblyReference.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\obj\Debug\AppSecurity.ConsoleTester.csproj.CoreCompileInputs.cache
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\obj\Debug\AppSecurity.ConsoleTester.csproj.CopyComplete
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\obj\Debug\AppSecurity.ConsoleTester.exe
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\obj\Debug\AppSecurity.ConsoleTester.pdb
+C:\Users\vrbas\source\repos\AppSecurity\AppSecurity.ConsoleTester\bin\Debug\AppSecurity.SecurityChecker.dll.config
